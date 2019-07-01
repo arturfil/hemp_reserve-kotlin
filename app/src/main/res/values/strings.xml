@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">hemp_reserve_mvvm</string>
+    <string name="error_text">An error occured while loading data</string>
+</resources>
